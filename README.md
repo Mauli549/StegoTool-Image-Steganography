@@ -58,7 +58,7 @@ bash
         bash
             Copy code :
                 python main.py
-![image alt]()
+![image alt](https://github.com/Mauli549/StegoTool-Image-Steganography/blob/67b8e0a78423cab54662cf5bce0e5c4a6f74d80e/Screenshot%202025-04-14%20143739.png)
 ![image alt]()
 
 📘 7. How to Use
