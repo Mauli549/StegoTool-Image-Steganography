@@ -74,6 +74,7 @@ Select an image with hidden text.
 Click “Decode Message”.
 The hidden text will appear in the textbox.
 
+![image alt](https://github.com/Mauli549/StegoTool-Image-Steganography/blob/be7472dc03df374aacf74d3eefc811df24e2a8ec/Screenshot%202025-04-14%20143758.png)
 ![image alt](https://github.com/Mauli549/StegoTool-Image-Steganography/blob/2234066dda9093fd86984bfe8bad70722796924f/Screenshot%202025-04-14%20143716.png)
 
 ✅ 8. Advantages
