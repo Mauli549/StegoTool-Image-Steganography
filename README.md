@@ -58,6 +58,8 @@ bash
         bash
             Copy code :
                 python main.py
+![image alt]()
+![image alt]()
 
 📘 7. How to Use
 ➕ To Hide a Message:
