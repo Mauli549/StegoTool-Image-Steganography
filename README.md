@@ -3,7 +3,7 @@
 📄 Project Documentation
 Project Title: StegoTool – Image Steganography Application
 Version: 1.0
-Author: Mauli Gaming Takshil
+Author: MAULI GAMING
 
 🔎 1. Introduction
 StegoTool is a powerful and visually engaging steganography tool that enables users to hide and retrieve secret messages within image files. Designed using Python and PyQt5, it blends modern UI features with core information security principles. The application is user-friendly, bilingual (English and Marathi), and equipped with animations, sound effects, themes, and error handling – making it an excellent educational and practical tool.
@@ -61,6 +61,8 @@ bash
                 
 ![image alt](https://github.com/Mauli549/StegoTool-Image-Steganography/blob/67b8e0a78423cab54662cf5bce0e5c4a6f74d80e/Screenshot%202025-04-14%20143739.png)
 
+
+
 📘 7. How to Use
 ➕ To Hide a Message:
 Launch the application.
@@ -74,8 +76,20 @@ Select an image with hidden text.
 Click “Decode Message”.
 The hidden text will appear in the textbox.
 
+
+
+
+
 ![image alt](https://github.com/Mauli549/StegoTool-Image-Steganography/blob/be7472dc03df374aacf74d3eefc811df24e2a8ec/Screenshot%202025-04-14%20143758.png)
+
+
 ![image alt](https://github.com/Mauli549/StegoTool-Image-Steganography/blob/2234066dda9093fd86984bfe8bad70722796924f/Screenshot%202025-04-14%20143716.png)
+
+
+![image alt](https://github.com/Mauli549/StegoTool-Image-Steganography/blob/1c9ff077ef48361cc7d8fa17320d227afd6ea94a/Screenshot%202025-04-14%20143809.png)
+
+
+
 
 ✅ 8. Advantages
 Simple, beginner-friendly interface
