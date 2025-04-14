@@ -19,25 +19,17 @@ Pillow (PIL)	Image processing library
 base64	For encoding and decoding text data
 QMovie	GIF animation handler
 os, sys, io	File and system utilities
+
 🎨 4. Key Features
 🔐 Text Encoding in Image
-
 🔓 Text Decoding from Image
-
 🌐 Bilingual UI (English + Marathi)
-
 💠 3D-style modern interface
-
 🌗 Light/Dark Theme Switch
-
 🎞️ GIF Animation Integration
-
 🔊 Sound Feedback on Actions
-
 📜 Live Logging Panel
-
 ⚠️ Pop-up Error Handling
-
 💾 Save/Export Stego Images
 
 📁 5. Project Structure
@@ -56,7 +48,7 @@ StegoTool/
 ├── requirements.txt       # Required Python libraries
 └── README.md              # Project information
 
-![image alt]()
+![image alt](https://github.com/Mauli549/StegoTool-Image-Steganography/blob/0244ba30a22ce0ef58d7ac53d4fdec790a9f0352/Screenshot%202025-04-14%20143231.png)
 📌 6. Installation & Execution
 🧾 Requirements:
 bash
@@ -70,35 +62,22 @@ bash
 📘 7. How to Use
 ➕ To Hide a Message:
 Launch the application.
-
 Click on “Choose Image” and select an image.
-
 Type your secret message.
-
 Click “Hide Message”.
-
 Save the new stego image.
-
 ➖ To Reveal a Hidden Message:
 Click on “Open Stego Image”.
-
 Select an image with hidden text.
-
 Click “Decode Message”.
-
 The hidden text will appear in the textbox.
 
 ✅ 8. Advantages
 Simple, beginner-friendly interface
-
 Secure way to embed text in images
-
 Works offline, no internet needed
-
 Stylish GUI with themes and animations
-
 Dual-language support enhances accessibility
-
 Saves stego image for later decoding
 
 ❌ 9. Limitations
