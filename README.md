@@ -58,8 +58,8 @@ bash
         bash
             Copy code :
                 python main.py
+                
 ![image alt](https://github.com/Mauli549/StegoTool-Image-Steganography/blob/67b8e0a78423cab54662cf5bce0e5c4a6f74d80e/Screenshot%202025-04-14%20143739.png)
-![image alt]()
 
 📘 7. How to Use
 ➕ To Hide a Message:
@@ -73,6 +73,8 @@ Click on “Open Stego Image”.
 Select an image with hidden text.
 Click “Decode Message”.
 The hidden text will appear in the textbox.
+
+![image alt](https://github.com/Mauli549/StegoTool-Image-Steganography/blob/2234066dda9093fd86984bfe8bad70722796924f/Screenshot%202025-04-14%20143716.png)
 
 ✅ 8. Advantages
 Simple, beginner-friendly interface
